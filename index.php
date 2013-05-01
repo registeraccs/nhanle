@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <meta charset="utf-8">
-        <title>Galleria Classic Theme</title>
+        <title>NhanLe's Album</title>
         <style>
 
             /* Demo styles */
@@ -122,86 +122,114 @@
                 <img 
                     src="Album/10.jpg",
                     data-title="Quà tình yêu"
-                    data-description="Mua tặng người vợ lúc yêu 2 con búp bê."
+                    data-description="Heo tình yêu lúc yêu nhau, mỗi lần làm sai gì là bị phạt bỏ tiền vào heo..., búp bê tình yêu."
                 >
             </a>
             <a href="Album/11.jpg">
                 <img 
                     src="Album/11.jpg",
-                    data-title="Heo tình yêu"
-                    data-description="Heo tình yêu lúc yêu nhau, mỗi lần làm sai gì là bị phạt bỏ tiền vào heo..."
+                    data-title="Tình yêu vượt bão"
+                    data-description="Một hôm mưa gió bão bùng, mưa không thấy đường, mưa dữ dội, nhưng vì tình yêu nên không ngại đường xa khó khăn, vượt 30Km từ TPHCM vượt bão xuống Bình Dương ăn tiệc nướng cùng gia đình vợ."
+                >
+            </a>
+            <a href="Album/12.jpg">
+                <img 
+                    src="Album/12.jpg",
+                    data-title="Những ngày tháng yêu nhau"
+                    data-description="Những tháng ngày hạnh phúc biết bao!"
+                >
+            </a>
+            <a href="Album/13.jpg">
+                <img 
+                    src="Album/13.jpg",
+                    data-title="Album cưới"
                 >
             </a>
             <a href="Album/14.jpg">
                 <img 
                     src="Album/14.jpg",
-                    data-title="Tình yêu vượt bão"
-                    data-description="Một hôm mưa gió bão bùng, mưa không thấy đường, mưa dữ dội, nhưng vì tình yêu nên không ngại đường xa khó khăn, vượt 30Km từ TPHCM vượt bão xuống Bình Dương ăn tiệc nướng cùng gia đình vợ."
+                    data-title="Lê Thanh Nhàn & Nguyễn Kim Nguyên"
+                    data-description="09-04-2012."
                 >
             </a>
             <a href="Album/15.jpg">
                 <img 
                     src="Album/15.jpg",
-                    data-title="Những ngày tháng yêu nhau"
-                    data-description="Những tháng ngày hạnh phúc biết bao!"
+                    data-title="Vợ mang thai Zeze"
+                >
+            </a>
+            <a href="Album/16.jpg">
+                <img 
+                    src="Album/16.jpg",
+                    data-title="Vợ mang thai Zeze"
+                >
+            </a>
+            <a href="Album/17.jpg">
+                <img 
+                    src="Album/17.jpg",
+                    data-title="Mẹ cho Zeze ăn pizzahuzt"
                 >
             </a>
             <a href="Album/18.jpg">
                 <img 
                     src="Album/18.jpg",
-                    data-title="Album cưới"
+                    data-title="Những món ngon mẹ và Zeze ăn"
+                    data-description="Bánh Plan bà ngoại làm, hàu sửa nướng phô mai, sò dương nướng mỡ hành, bún chả, ốc len sào dừa và sửa đậu nành."
                 >
             </a>
             <a href="Album/19.jpg">
                 <img 
                     src="Album/19.jpg",
-                    data-title="Lê Thanh Nhàn & Nguyễn Kim Nguyên"
-                    data-description="09-04-2012."
+                    data-title="Những món ngon mẹ và Zeze ăn"
+                    data-description="Đậu hủ Thái Lan, bạch tuột nướng sa tế."
+                >
+            </a>
+            <a href="Album/20.jpg">
+                <img 
+                    src="Album/20.jpg",
+                    data-title="Kỷ niệm 1 năm ngày cưới"
+                    data-description="Ba tặng hoa cho mẹ, gia đình mình đi uống cà phê tại cà phê Melody."
                 >
             </a>
             <a href="Album/21.jpg">
                 <img 
                     src="Album/21.jpg",
-                    data-title="Vợ mang thai Zeze"
+                    data-title="Kỷ niệm 1 năm ngày cưới"
                 >
             </a>
             <a href="Album/22.jpg">
                 <img 
                     src="Album/22.jpg",
-                    data-title="Vợ mang thai Zeze"
+                    data-title="Du hí khu du lịch sinh thái làng văn hóa các dân tộc Củ Chi - 01-05-2013"
+                    data-description="Gia đình ba mẹ và bé zeze đi chơi ở Củ Chi."
                 >
             </a>
             <a href="Album/23.jpg">
                 <img 
                     src="Album/23.jpg",
-                    data-title="Mẹ cho Zeze ăn pizzahuzt"
+                    data-title="Du hí khu du lịch sinh thái làng văn hóa các dân tộc Củ Chi - 01-05-2013"
+                    data-description="Ba và mẹ nhí nhảnh khi vào tới cổng."
                 >
             </a>
             <a href="Album/24.jpg">
                 <img 
                     src="Album/24.jpg",
-                    data-title="Những món ngon mẹ và Zeze ăn"
-                    data-description="Bánh Plan bà ngoại làm, hàu sửa nướng phô mai, sò dương nướng mỡ hành, bún chả, ốc len sào dừa và sửa đậu nành."
+                    data-title="Du hí khu du lịch sinh thái làng văn hóa các dân tộc Củ Chi - 01-05-2013"
+                    data-description="Xem đua heo."
                 >
             </a>
             <a href="Album/25.jpg">
                 <img 
                     src="Album/25.jpg",
-                    data-title="Những món ngon mẹ và Zeze ăn"
-                    data-description="Đậu hủ Thái Lan, bạch tuột nướng sa tế."
+                    data-title="Du hí khu du lịch sinh thái làng văn hóa các dân tộc Củ Chi - 01-05-2013"
+                    data-description="Xem xiếc vịt, vịt khiêu vũ."
                 >
             </a>
             <a href="Album/26.jpg">
                 <img 
                     src="Album/26.jpg",
-                    data-title="Kỷ niệm 1 năm ngày cưới"
-                    data-description="Ba tặng hoa cho mẹ, gia đình mình đi uống cà phê tại cà phê Melody."
-                >
-            </a>
-            <a href="Album/50.jpg">
-                <img 
-                    src="Album/50.jpg",
-                    data-title="Kỷ niệm 1 năm ngày cưới"
+                    data-title="Du hí khu du lịch sinh thái làng văn hóa các dân tộc Củ Chi - 01-05-2013"
+                    data-description="Ăn cơm lam và thịt nướng."
                 >
             </a>
         </div>
