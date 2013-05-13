@@ -232,6 +232,20 @@
                     data-description="Ăn cơm lam và thịt nướng."
                 >
             </a>
+            <a href="Album/27.jpg">
+                <img 
+                    src="Album/27.jpg",
+                    data-title="Kỷ niệm ngày cưới được 1 năm 1 tháng 1 ngày - 10-05-2013"
+                    data-description="Uống coffee."
+                >
+            </a>
+            <a href="Album/28.jpg">
+                <img 
+                    src="Album/28.jpg",
+                    data-title="Về nhà thăm nội - 11-05-2013"
+                    data-description="Ăn bún đậu mắm tôm: 169/2 Vo Thi Sau, P7, Q3.<br/> Bánh mì 6 Minh: 170 Vo Van Tan, P3, Q5."
+                >
+            </a>
         </div>
     </div>
 
