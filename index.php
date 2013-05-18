@@ -257,7 +257,7 @@
                 <img 
                     src="Album/30.jpg",
                     data-title="Đi ăn tối với bạn iu của Mẹ(Hồng) - 15-05-2013"
-                    data-description="Quán Hoàng Ty gần trạm thu phí cầu Phú Cường: Cơm chiên tỏi, gỏi ngó sen, lẩu thái và sườn nướng muối ớt."
+                    data-description="Quán Tây Hồ gần trạm thu phí cầu Phú Cường: Cơm chiên tỏi, gỏi ngó sen, lẩu thái và sườn nướng muối ớt."
                 >
             </a>
         </div>
