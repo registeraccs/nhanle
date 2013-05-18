@@ -246,6 +246,20 @@
                     data-description="Ăn bún đậu mắm tôm: 169/2 Vo Thi Sau, P7, Q3.<br/> Bánh mì 6 Minh: 170 Vo Van Tan, P3, Q5."
                 >
             </a>
+            <a href="Album/29.jpg">
+                <img 
+                    src="Album/29.jpg",
+                    data-title="Đi uống cà phê với bạn iu của Mẹ(Hồng) - 14-05-2013"
+                    data-description="Kem 55.000đ"
+                >
+            </a>
+            <a href="Album/30.jpg">
+                <img 
+                    src="Album/30.jpg",
+                    data-title="Đi ăn tối với bạn iu của Mẹ(Hồng) - 15-05-2013"
+                    data-description="Quán Hoàng Ty gần trạm thu phí cầu Phú Cường: Cơm chiên tỏi, gỏi ngó sen, lẩu thái và sườn nướng muối ớt."
+                >
+            </a>
         </div>
     </div>
 
