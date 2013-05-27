@@ -260,6 +260,13 @@
                     data-description="Quán Tây Hồ gần trạm thu phí cầu Phú Cường: Cơm chiên tỏi, gỏi ngó sen, lẩu thái và sườn nướng muối ớt."
                 >
             </a>
+            <a href="Album/31.jpg">
+                <img 
+                    src="Album/31.jpg",
+                    data-title="Sinh nhật chị Loan - 19-05-2013"
+                    data-description="Lẩu khổ qua cá thác lác, sường nướng thơm ngon."
+                >
+            </a>
         </div>
     </div>
 
