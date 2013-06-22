@@ -267,6 +267,64 @@
                     data-description="Lẩu khổ qua cá thác lác, sường nướng thơm ngon."
                 >
             </a>
+            <a href="Album/32.jpg">
+                <img 
+                    src="Album/32.jpg",
+                    data-title="Bình Quới - 01-06-2013"
+                    data-description="Puffet tại Bình Quới."
+                >
+            </a>
+            <a href="Album/33.jpg">
+                <img 
+                    src="Album/33.jpg",
+                    data-title="Bình Quới - 01-06-2013"
+                    data-description="Puffet tại Bình Quới."
+                >
+            </a>
+            <a href="Album/34.jpg">
+                <img 
+                    src="Album/34.jpg",
+                    data-title="Bình Quới - 01-06-2013"
+                    data-description="Puffet tại Bình Quới."
+                >
+            </a>
+            <a href="Album/35.jpg">
+                <img 
+                    src="Album/35.jpg",
+                    data-title="Sinh nhật Na điệu - 05-06-2013"
+                >
+            </a>
+            <a href="Album/36.jpg">
+                <img 
+                    src="Album/36.jpg",
+                    data-title="Sinh nhật Na điệu - 05-06-2013"
+                >
+            </a>
+            <a href="Album/37.jpg">
+                <img 
+                    src="Album/37.jpg",
+                    data-title="Sinh nhật Na điệu - 05-06-2013"
+                >
+            </a>
+            <a href="Album/38.jpg">
+                <img 
+                    src="Album/38.jpg",
+                    data-title="Sinh nhật Na điệu - 05-06-2013"
+                    data-description="Giải cứu con tin tại phòng Xíu Mại."
+                >
+            </a>
+            <a href="Album/39.jpg">
+                <img 
+                    src="Album/39.jpg",
+                    data-title="Bé đi chơi Kiz City - 08-06-2013"
+                >
+            </a>
+            <a href="Album/40.jpg">
+                <img 
+                    src="Album/40.jpg",
+                    data-title="Bé đi chơi Kiz City - 08-06-2013"
+                >
+            </a>
         </div>
     </div>
 
