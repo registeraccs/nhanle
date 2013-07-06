@@ -271,21 +271,21 @@
                 <img 
                     src="Album/32.jpg",
                     data-title="Bình Quới - 01-06-2013"
-                    data-description="Puffet tại Bình Quới."
+                    data-description="Buffet tại Bình Quới."
                 >
             </a>
             <a href="Album/33.jpg">
                 <img 
                     src="Album/33.jpg",
                     data-title="Bình Quới - 01-06-2013"
-                    data-description="Puffet tại Bình Quới."
+                    data-description="Buffet tại Bình Quới."
                 >
             </a>
             <a href="Album/34.jpg">
                 <img 
                     src="Album/34.jpg",
                     data-title="Bình Quới - 01-06-2013"
-                    data-description="Puffet tại Bình Quới."
+                    data-description="Buffet tại Bình Quới."
                 >
             </a>
             <a href="Album/35.jpg">
@@ -323,6 +323,92 @@
                 <img 
                     src="Album/40.jpg",
                     data-title="Bé đi chơi Kiz City - 08-06-2013"
+                >
+            </a>
+            <a href="Album/41.jpg">
+                <img 
+                    src="Album/41.jpg",
+                    data-title="Mẹ và bà ngoại thêu mềnh và gối cho Ze ze"
+                >
+            </a>
+            <a href="Album/42.jpg">
+                <img 
+                    src="Album/42.jpg",
+                    data-title="Ze ze chào đời - 28-06-2013 10:30 AM"
+                    data-description="7h sáng mẹ đau bụng, ba và mẹ đưa mẹ đi bệnh viện."
+                >
+            </a>
+            <a href="Album/43.jpg">
+                <img 
+                    src="Album/43.jpg",
+                    data-title="Bé Ze ze 1 ngày tuổi - 29-06-2013"
+                >
+            </a>
+            <a href="Album/44.jpg">
+                <img 
+                    src="Album/44.jpg",
+                    data-title="Bé Ze ze 2 ngày tuổi - 30-06-2013"
+                    data-description="Ba cho bé Ze ze bú."
+                >
+            </a>
+            <a href="Album/45.jpg">
+                <img 
+                    src="Album/45.jpg",
+                    data-title="Bé Ze ze 3 ngày tuổi - 01-07-2013"
+                >
+            </a>
+            <a href="Album/46.jpg">
+                <img 
+                    src="Album/46.jpg",
+                    data-title="Bé Ze ze 3 ngày tuổi - 01-07-2013"
+                    data-description="Bà nội và bác 3 lên Bình Dương thăm Ze ze"
+                >
+            </a>
+            <a href="Album/47.jpg">
+                <img 
+                    src="Album/47.jpg",
+                    data-title="Bé Ze ze 4 ngày tuổi - 02-07-2013"
+                    data-description="Bà ngoại chơi với Ze ze"
+                >
+            </a>
+            <a href="Album/48.jpg">
+                <img 
+                    src="Album/48.jpg",
+                    data-title="Bé Ze ze 5 ngày tuổi - 03-07-2013"
+                >
+            </a>
+            <a href="Album/49.jpg">
+                <img 
+                    src="Album/49.jpg",
+                    data-title="Bé Ze ze 6 ngày tuổi - 04-07-2013"
+                >
+            </a>
+            <a href="Album/50.jpg">
+                <img 
+                    src="Album/50.jpg",
+                    data-title="Bé Ze ze 7 ngày tuổi - 05-07-2013"
+                    data-description="Anh Xíu Mại chờ sửa"
+                >
+            </a>
+            <a href="Album/51.jpg">
+                <img 
+                    src="Album/51.jpg",
+                    data-title="Bé Ze ze 7 ngày tuổi - 05-07-2013"
+                    data-description="Bà ngoại cho Ze ze bú sửa."
+                >
+            </a>
+            <a href="Album/52.jpg">
+                <img 
+                    src="Album/52.jpg",
+                    data-title="Bé Ze ze 7 ngày tuổi - 05-07-2013"
+                    data-description="Bà ngoại sưởi ấm Ze ze."
+                >
+            </a>
+            <a href="Album/53.jpg">
+                <img 
+                    src="Album/53.jpg",
+                    data-title="Bé Ze ze 8 ngày tuổi - 06-07-2013"
+                    data-description="Bà ngoại cho Ze ze tắm nắng."
                 >
             </a>
         </div>
