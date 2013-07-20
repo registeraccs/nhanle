@@ -411,6 +411,23 @@
                     data-description="Bà ngoại cho Ze ze tắm nắng."
                 >
             </a>
+            <a href="Album/54.jpg">
+                <img 
+                    src="Album/54.jpg",
+                    data-title="Ba và zeze cùng phơi nắng - 14-07-2013"
+                >
+            </a><a href="Album/55.jpg">
+                <img 
+                    src="Album/55.jpg",
+                    data-title="Sinh nhật vợ - 18-07-2013"
+                    data-description="Bánh mì ngọt thay cho bánh kem."
+                >
+            </a><a href="Album/56.jpg">
+                <img 
+                    src="Album/56.jpg",
+                    data-title="Sinh nhật vợ - 18-07-2013"
+                >
+            </a>
         </div>
     </div>
 
