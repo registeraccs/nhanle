@@ -20,7 +20,7 @@
         </style>
 
         <!-- load jQuery -->
-        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
+        <script src="js/jquery-1.7.2.min.js"></script>
 
         <!-- load Galleria -->
         <script src="js/galleria-1.2.8-final.min.js"></script>
@@ -416,16 +416,72 @@
                     src="Album/54.jpg",
                     data-title="Ba và zeze cùng phơi nắng - 14-07-2013"
                 >
-            </a><a href="Album/55.jpg">
+            </a>
+            <a href="Album/55.jpg">
                 <img 
                     src="Album/55.jpg",
                     data-title="Sinh nhật vợ - 18-07-2013"
                     data-description="Bánh mì ngọt thay cho bánh kem."
                 >
-            </a><a href="Album/56.jpg">
+            </a>
+            <a href="Album/56.jpg">
                 <img 
                     src="Album/56.jpg",
                     data-title="Sinh nhật vợ - 18-07-2013"
+                >
+            </a>
+            <a href="Album/57.jpg">
+                <img 
+                    src="Album/57.jpg",
+                    data-title="Đầy tháng Zeze - 28-07-2013"
+                >
+            </a>
+            <a href="Album/58.jpg">
+                <img 
+                    src="Album/58.jpg",
+                    data-title="Đầy tháng Zeze - 28-07-2013"
+                >
+            </a>
+            <a href="Album/59.jpg">
+                <img 
+                    src="Album/59.jpg",
+                    data-title="Zeze 1 tháng 17 ngày"
+                >
+            </a>
+            <a href="Album/60.jpg">
+                <img 
+                    src="Album/60.jpg",
+                    data-title="Zeze 1 tháng 18 ngày"
+                >
+            </a>
+            <a href="Album/61.jpg">
+                <img 
+                    src="Album/61.jpg",
+                    data-title="Zeze 1 tháng 27 ngày"
+                >
+            </a>
+            <a href="Album/62.jpg">
+                <img 
+                    src="Album/62.jpg",
+                    data-title="Zeze 1 tháng 27 ngày"
+                >
+            </a>
+            <a href="Album/63.jpg">
+                <img 
+                    src="Album/63.jpg",
+                    data-title="Zeze 1 tháng 27 ngày"
+                >
+            </a>
+            <a href="Album/64.jpg">
+                <img 
+                    src="Album/64.jpg",
+                    data-title="Zeze 1 tháng 27 ngày"
+                >
+            </a>
+            <a href="Album/65.jpg">
+                <img 
+                    src="Album/65.jpg",
+                    data-title="Zeze 1 tháng 27 ngày"
                 >
             </a>
         </div>
