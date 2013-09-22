@@ -484,6 +484,13 @@
                     data-title="Zeze 1 tháng 27 ngày"
                 >
             </a>
+            <a href="Album/66.jpg">
+                <img 
+                    src="Album/66.jpg",
+                    data-title="Zeze 2 tháng 25 ngày"
+                    data-description="Đặc điểm nhận biết: Hay khóc nhè, la làng khi buồn ngủ, thích bế đứng không thích nằm ngửa, thích nói chuyện, thích được bế ra đường ngắm xe. Ngủ gật, nấc cục."
+                >
+            </a>
         </div>
     </div>
 
